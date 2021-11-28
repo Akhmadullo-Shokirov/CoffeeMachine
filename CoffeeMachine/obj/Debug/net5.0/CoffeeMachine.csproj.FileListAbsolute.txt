@@ -1,0 +1,32 @@
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.deps.json
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.json
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.dev.json
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.dll
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/ref/CoffeeMachine.dll
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.pdb
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csprojAssemblyReference.cache
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfoInputs.cache
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfo.cs
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csproj.CoreCompileInputs.cache
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.dll
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/ref/CoffeeMachine.dll
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.pdb
+/home/akhmadullo/Music/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.genruntimeconfig.cache
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.deps.json
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.json
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.dev.json
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.dll
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/ref/CoffeeMachine.dll
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.pdb
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csproj.AssemblyReference.cache
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfoInputs.cache
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfo.cs
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csproj.CoreCompileInputs.cache
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.dll
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/ref/CoffeeMachine.dll
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.pdb
+/home/akhmadullo/University stuff/OOP/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.genruntimeconfig.cache
